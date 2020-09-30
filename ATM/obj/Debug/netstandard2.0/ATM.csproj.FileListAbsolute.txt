@@ -1,9 +1,0 @@
-C:\Users\daka\source\repos\BDDExampleProject\ATM\bin\Debug\netstandard2.0\ATM.deps.json
-C:\Users\daka\source\repos\BDDExampleProject\ATM\bin\Debug\netstandard2.0\ATM.dll
-C:\Users\daka\source\repos\BDDExampleProject\ATM\bin\Debug\netstandard2.0\ATM.pdb
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.csprojAssemblyReference.cache
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.AssemblyInfoInputs.cache
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.AssemblyInfo.cs
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.csproj.CoreCompileInputs.cache
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.dll
-C:\Users\daka\source\repos\BDDExampleProject\ATM\obj\Debug\netstandard2.0\ATM.pdb
